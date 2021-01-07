@@ -2,5 +2,5 @@
 
 Some more info 
 
-[Back to Home](/)
+[Back to Home](/jekyll/)
  
